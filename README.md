@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bedirhan Balci</h1>
 <h3 align="center">I'm a Computer Engineer.</h3>
 
-- 🔭 I’m currently working on **Back-End with Java**
+- 🔭 I’m currently working on **Back-End with Java**.
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**.
 
 - 📝 I regularly write articles on [https://medium.com/@bedirhanbalci](https://medium.com/@bedirhanbalci)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java and Python**.
 
 - 📫 How to reach me **bedirhanbalci@outlook.com**
 
