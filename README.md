@@ -1,3 +1,6 @@
+
+![banner](https://github.com/bedirhanbalci/bedirhanbalci/assets/61194064/beb3f2a0-4524-4dc4-a9f7-3b58c9cdd11a)
+
 <h1 align="center">Hi 👋, I'm Bedirhan Balci</h1>
 <h3 align="center">I'm a Computer Engineer.</h3>
 
